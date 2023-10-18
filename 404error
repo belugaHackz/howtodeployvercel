@@ -1,0 +1,6 @@
+404 ERROR CODE
+
+I cannot tell you how many times i see this on any sites i've deployed. It's an easy fix though
+
+Click on your settings in vercel on the site and be sure that under Build & Development Settings that everything is registered correctly. If it says Other with a blank triangle,
+this is not needed. 
