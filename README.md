@@ -17,6 +17,6 @@ You may now click deploy. It should auto scroll and show thats it building. For 
 If you have any issues, please let me know by pressing the Issues tab and typing your issue. 
 
 Here is the game website as promised: g4u.my.canva.site
-I personally created it, we have daily updates, proxies, and ways to remove lanschool, go guardian, Zscaler, and more! Please leave a good review about us at the bottom of the page. 
+I personally created it, we have daily updates, proxies, and ways to remove lanschool, go guardian, Zscaler, and more! Please leave a good review about us at the bottom of the page. We might have days where it says the site is down. Its common because we are the center of an attack on going and we keep getting hacked. We will try our best to maintain the site and keep it up. This isn't promised, considering we are under attack by an organization who does not agree with our website and the games.
 
 I hope this tutorial went well for everyone, and i hope you have a good day. Have fun!
